@@ -30,9 +30,9 @@ erigo_clustering/
 │   ├── main.ipynb                         # Notebook ringkasan pipeline
 │   └── scrapping.py                       # Script scraping data Tokopedia
 │
+├── README.md                              # Dokumentasi utama proyek
 ├── requirements.txt                       # Daftar dependensi Python
-├── run.sh                                 # Script bash untuk menjalankan pipeline
-└── README.md                              # Dokumentasi utama proyek
+└── run.sh                                 # Script bash untuk menjalankan pipeline
 ```
 
 ---
