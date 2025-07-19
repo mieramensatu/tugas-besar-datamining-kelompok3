@@ -1,0 +1,17 @@
+# Core packages
+pandas
+numpy
+matplotlib
+seaborn
+
+# Machine Learning
+scikit-learn
+
+# Notebook support
+jupyter
+
+# Web scraping
+playwright
+
+# Optional
+plotly
