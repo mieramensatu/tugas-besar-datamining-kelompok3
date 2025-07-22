@@ -11,10 +11,13 @@ Repositori ini berisi proyek data mining untuk melakukan klasterisasi pelanggan 
 erigo_clustering/
 │
 ├── data/
+│   ├── data RFM username
+|   |   └── rfm_per_username.csv            # Dataset RFM per Username
 │   ├── raw/
-│   │   └── Erigo_full_data.csv            # Dataset hasil scraping dari Tokopedia
+│   │   └── Erigo_full_data.csv             # Dataset hasil scraping dari Tokopedia
 │   └── processed/
-│       └── cleaned_tokped_data.csv        # Dataset setelah preprocessing
+│       ├── hasil_cluster_kmeans_tokped.csv #Dataset hasil cluster
+│       └── cleaned_tokped_data.csv         # Dataset setelah preprocessing
 │
 ├── notebook/
 │   ├── EDA.ipynb                          # Eksplorasi data (EDA)
